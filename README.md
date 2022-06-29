@@ -1,2 +1,9 @@
-# Nightwalk Welcomer
- Um "script" que da welcome para os membros da Nightwalk.
+Invite da Nightwalk: https://discord.gg/nightwalk
+
+# **AVISO**
+**O "SCRIPT" PODE SER CONSIDERADO SELFBOT, USE PELO SEU RISCO.**
+
+# Requerimentos:
+* Python
+* httpx
+* colorama
